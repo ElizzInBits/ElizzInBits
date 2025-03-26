@@ -1,4 +1,4 @@
-### Olá!! eu sou a Elizabeth mas se preferir pode me chamar de Beth ou Eliza 🤘😊
+### Olá!! eu sou a Elizabeth🤘😊
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bett_y.png/)
 
