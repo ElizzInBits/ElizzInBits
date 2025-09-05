@@ -22,7 +22,7 @@
 const elizabeth = {
     pronouns: "ela/dela",
     education: "Ciência da Computação",
-    currentFocus: ["Desenvolvimento Web", "Algoritmos", "UI/UX"],
+    currentFocus: ["Desenvolvimento Web", "Algoritmos", "UI/UX", "Back-end"],
     interests: ["Inteligência Artificial", "Mobile Development", "Open Source"],
     motto: "Transformando café em código! ☕→💻"
 };
